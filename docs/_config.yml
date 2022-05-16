@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Temporary Directory
+title: Landing Page
 email: kim-pascal.borchart@student.hpi.de
 description:  # >- # this means to ignore newlines until "baseurl:"
-  If you can read this, you are part of a small group of people! 
-  I know. It's pretty crazy.
+  Always has been.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "goesontangents.github.io"
 url: "https://goesontangents.github.io" # the base hostname & protocol for your site, e.g. http://example.com
