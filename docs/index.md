@@ -5,7 +5,7 @@ title: Wait, this page is just some tables?
 # Table 1
 
 <table>
-  {% for row in site.data.mock_data %}
+  {% for row in site.data.mock_validation %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
@@ -41,7 +41,7 @@ title: Wait, this page is just some tables?
 # Table 3
 
 <table>
-  {% for row in site.data.mock_validation %}
+  {% for row in site.data.mock_data %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
