@@ -1,8 +1,8 @@
 ---
-title: Wait, this page is just some tables?
+title: Leaderboard and Rising Stars?
 ---
 
-# Table 1
+# Alternate Uses Task
 
 <table>
   {% for row in site.data.mock_validation %}
@@ -20,7 +20,7 @@ title: Wait, this page is just some tables?
 {% endfor %}
 </table>
 
-# Table 2
+# Immune Defense
 
 <table>
   {% for row in site.data.aggregated %}
@@ -38,7 +38,7 @@ title: Wait, this page is just some tables?
 {% endfor %}
 </table>
 
-# Table 3
+# Other Results
 
 <table>
   {% for row in site.data.mock_data %}
