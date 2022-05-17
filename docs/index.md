@@ -1,5 +1,5 @@
 ---
-title: Leaderboard and Rising Stars?
+title: Leaderboard and Rising Stars
 ---
 
 # Alternate Uses Task
@@ -40,18 +40,5 @@ title: Leaderboard and Rising Stars?
 
 # Other Results
 
-<table>
-  {% for row in site.data.mock_data %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-{% endfor %}
-</table>
+Everything can be expressed as a CSV or as just plain text.
+This is how plain text looks. 
