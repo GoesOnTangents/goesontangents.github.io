@@ -32,7 +32,7 @@ github:
   is_project_page: false
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 classes: wide
