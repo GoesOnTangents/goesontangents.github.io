@@ -2,7 +2,6 @@
 title: Leaderboard and Rising Stars
 
 layout: single
-classes: wide
 ---
 
 # CollaboUse
