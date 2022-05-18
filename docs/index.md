@@ -59,7 +59,7 @@ title: Leaderboard and Rising Stars
 # CollaboWrite
 
 <table>
-  {% for row in site.data.collabouse %}
+  {% for row in site.data.collabowrite %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
