@@ -1,5 +1,7 @@
 ---
 title: Leaderboard and Rising Stars
+
+classes: wide
 ---
 
 # CollaboUse
