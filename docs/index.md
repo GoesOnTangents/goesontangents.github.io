@@ -2,10 +2,10 @@
 title: Leaderboard and Rising Stars
 ---
 
-# Alternate Uses Task
+# CollaboUse
 
 <table>
-  {% for row in site.data.mock_validation %}
+  {% for row in site.data.collabouse %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
@@ -23,7 +23,7 @@ title: Leaderboard and Rising Stars
 # Immune Defense
 
 <table>
-  {% for row in site.data.aggregated %}
+  {% for row in site.data.immunedefense %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
@@ -55,3 +55,4 @@ title: Leaderboard and Rising Stars
     {% endtablerow %}
 {% endfor %}
 </table>
+
