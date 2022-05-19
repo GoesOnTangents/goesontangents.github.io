@@ -1,5 +1,5 @@
 ---
-title: Leaderboard and Rising Stars
+title: Automatically Generated Results
 
 layout: scoreboard
 ---
