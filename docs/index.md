@@ -41,6 +41,7 @@ Pending...
 </table>
 
 # Four-Word Sentence Puzzle
+Pending...
 <table>
   {% for row in site.data.fourwords %}
     {% if forloop.first %}
