@@ -31,6 +31,8 @@ url: "https://goesontangents.github.io" # the base hostname & protocol for your 
 github:
   is_project_page: false
 
+google_analytics: false
+
 # Build settings
 theme: jekyll-theme-cayman
 plugins:

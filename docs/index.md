@@ -1,11 +1,11 @@
 ---
 title: Leaderboard and Rising Stars
 
-classes: wide
+layout: scoreboard
 ---
 
 # CollaboUse
-
+Pending...
 <table>
   {% for row in site.data.collabouse %}
     {% if forloop.first %}
@@ -23,7 +23,7 @@ classes: wide
 </table>
 
 # Immune Defense
-
+Pending...
 <table>
   {% for row in site.data.immunedefense %}
     {% if forloop.first %}
@@ -41,7 +41,6 @@ classes: wide
 </table>
 
 # Four-Word Sentence Puzzle
-
 <table>
   {% for row in site.data.fourwords %}
     {% if forloop.first %}
@@ -59,7 +58,7 @@ classes: wide
 </table>
 
 # CollaboWrite
-
+Pending...
 <table>
   {% for row in site.data.collabowrite %}
     {% if forloop.first %}
