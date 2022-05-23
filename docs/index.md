@@ -23,7 +23,6 @@ Pending...
 </table>
 
 # Immune Defense
-Pending...
 <table>
   {% for row in site.data.immunedefense %}
     {% if forloop.first %}
