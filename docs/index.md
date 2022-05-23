@@ -5,7 +5,6 @@ layout: scoreboard
 ---
 
 # CollaboUse
-Pending...
 <table>
   {% for row in site.data.collabouse %}
     {% if forloop.first %}
