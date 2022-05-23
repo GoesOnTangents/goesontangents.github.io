@@ -57,7 +57,6 @@ Pending...
 </table>
 
 # CollaboWrite
-Pending...
 <table>
   {% for row in site.data.collabowrite %}
     {% if forloop.first %}
