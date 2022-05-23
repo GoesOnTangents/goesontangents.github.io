@@ -1,1 +1,22 @@
-
+"subject","variable","sentence","WORD_INFREQUENCY","WORD_UNIQUENESS","RHYME"
+"hulkfiction","ADEL","alle deine Enten lachen",2.0,0.0,1
+"hulkfiction","FREI","ein Igel ruft frei",2.0,0.75,0
+"hulkfiction","MEHL","ein Huhn leckt Mehl",3.5,0.8749999999999999,0
+"hulkfiction","RABE","bin eben raus abwaschen",2.0,0.875,1
+"hulkfiction","SAUM","und mein Auge saut",2.5,0.0,0
+"initialized","ADEL","Anne dealt Edamame lahm",4.5,1.0,0
+"initialized","FREI","ein Igel futtert Rueben",4.0,0.75,0
+"initialized","MEHL","heute lungert ein Mammut",3.0,0.0,0
+"initialized","RABE","bin richtig einsam allein",1.75,0.875,1
+"initialized","SAUM","unterm Apfelbaum sitzt Miez",3.75,0.0,0
+"joyfulseat","ADEL","der alte Engel lacht",2.5,0.0,0
+"joyfulseat","FREI","eine Ratte isst Fritten",2.75,0.625,0
+"joyfulseat","MEHL","eine Hummel liebt mich",1.75,1.0,0
+"joyfulseat","SAUM","seine Unternehmungen machen Angst",2.0,0.0,1
+"indoorbook","FREI","rote Eiche im Freien",2.0,1.0,0
+"indoorbook","MEHL","Einheit Licht macht heller",2.0,1.0,1
+"indoorbook","SAUM","Mensch unter aller Sau",2.5,0.0,1
+"zigzaghut","FREI","eine Referentin in Frankreich",1.25,0.8749999999999999,1
+"yucamaus","FREI","frierende Ratten essen Isolierfolie",3.75,0.75,1
+"yucamaus","MEHL","hungrige Elefanten lachen mehrfach",3.25,1.0,1
+"zigzaghut ","MEHL","letztes Mammut heute entdeckt",3.5,0.75,0
