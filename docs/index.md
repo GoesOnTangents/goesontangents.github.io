@@ -5,7 +5,7 @@ layout: scoreboard
 ---
 
 # CollaboUse
-Pending... :)
+Pending...
 <table>
   {% for row in site.data.collabouse %}
     {% if forloop.first %}
@@ -23,7 +23,7 @@ Pending... :)
 </table>
 
 # Immune Defense
-Pending... :)
+Pending...
 <table>
   {% for row in site.data.immunedefense %}
     {% if forloop.first %}
@@ -41,7 +41,7 @@ Pending... :)
 </table>
 
 # Four-Word Sentence Puzzle
-Pending... :)
+Pending...
 <table>
   {% for row in site.data.fourwords %}
     {% if forloop.first %}
@@ -59,7 +59,7 @@ Pending... :)
 </table>
 
 # CollaboWrite
-Pending... :)
+Pending...
 <table>
   {% for row in site.data.collabowrite %}
     {% if forloop.first %}
